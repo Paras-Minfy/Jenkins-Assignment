@@ -117,12 +117,17 @@ stage('Cleanup') {
 
 ## 📂 Screenshots
 ---
+Dashboard:
 * ![Dashboard Screenshot](https://github.com/Paras-Minfy/Jenkins-Assignment/blob/main/screenshots/Dashboard.png)
 ---
+* Stage View 1:
 * ![Stage View 1 Screenshot](https://github.com/Paras-Minfy/Jenkins-Assignment/blob/main/screenshots/stage%20view%201.png)
+* Console Output 1:
 * ![Console Output 1 Screenshot](https://github.com/Paras-Minfy/Jenkins-Assignment/blob/main/screenshots/console%20output%201.png)
 ---
+* Stage View 2:
 * ![Stage View 2 Screenshot](https://github.com/Paras-Minfy/Jenkins-Assignment/blob/main/screenshots/stage%20view%202.png)
+* Console Output 2:
 * ![Console Output 2 Screenshot](https://github.com/Paras-Minfy/Jenkins-Assignment/blob/main/screenshots/console%20output%202.png)
 ---
 
